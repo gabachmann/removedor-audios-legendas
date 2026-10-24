@@ -1,4 +1,4 @@
-# Removedor de áudio e legendas
+# Removedor de Áudios e Legendas
 
 Aplicativo desktop para **remover trilhas de áudio e legendas de vídeos**, preservando as demais trilhas sem recodificação (`ffmpeg -c copy`). Interface moderna com CustomTkinter.
 
