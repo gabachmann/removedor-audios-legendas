@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Arquivos de compilação
+build/
+dist/
+*.spec
+
+# IDEs e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Arquivos de vídeo locais
+*.mkv
+*.mp4
+*.avi
+*.mov
